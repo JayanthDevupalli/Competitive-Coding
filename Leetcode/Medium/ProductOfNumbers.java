@@ -1,7 +1,7 @@
 // s 1352. Product of the Last K Numbers
 // Difficulty: Medium
 
-// Problem Statement
+// Problem Statement: [Link] = https://leetcode.com/problems/product-of-the-last-k-numbers/description/
 // Design an algorithm that accepts a stream of integers and retrieves the product of the last k integers of the stream.
 
 // Implement the ProductOfNumbers class:
