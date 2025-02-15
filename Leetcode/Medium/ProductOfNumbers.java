@@ -1,4 +1,4 @@
-// s 1352. Product of the Last K Numbers
+// 1352. Product of the Last K Numbers
 // Difficulty: Medium
 
 // Problem Statement: [Link] = https://leetcode.com/problems/product-of-the-last-k-numbers/description/
