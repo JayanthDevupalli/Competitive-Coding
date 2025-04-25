@@ -1,6 +1,5 @@
 #include <iostream>
-#include <vector>
-using namespace std;
+#include<vector>
 
 //bruteForce approach
 class Solution {
