@@ -8,6 +8,8 @@
 // Example 2:
 // Input: nums = [1,1]
 // Output: [2]
+#include <iostream>
+#include <vector>
 
 class Solution {
     public:
